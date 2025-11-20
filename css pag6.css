@@ -1,5 +1,5 @@
 body {
-    font-family: Inria serif;
+    font-family: 'Roboto', Arial, sans-serif; 
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -145,4 +145,5 @@ footer a:hover {
     flex: 1;
     margin-bottom: 0;
     text-align: justify;
+
 }
