@@ -34,7 +34,7 @@ hr {
     background-size: cover;
     background-position: center;
     color: #fff;
-    padding: 60px 20px;
+    padding: 130px 20px;
     position: relative;
 }
 
@@ -45,7 +45,7 @@ hr {
 
 .logo-header {
     position: absolute;
-    top: -60px;
+    top: -130px;
     right: -110px;
     width: 80px;
 }
@@ -254,4 +254,5 @@ hr {
     .actions-grid, .cards-grid {
         grid-template-columns: 1fr; 
     }
+
 }
