@@ -34,7 +34,7 @@ hr {
     background-size: cover;
     background-position: center;
     color: #fff;
-    padding: 165px 40px;
+    padding: 175px 40px;
     position: relative;
 }
 
@@ -46,7 +46,7 @@ hr {
 .logo-header {
     position: absolute;
     top: -150px;
-    right: -130px;
+    right: -150px;
     width: 80px;
 }
 
@@ -219,7 +219,7 @@ hr {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px;
+    padding: 20px;
 }
 
 .footer p {
@@ -232,7 +232,7 @@ hr {
 }
 
 .logo-footer {
-    width: 50px;
+    width: 60px;
     filter: brightness(0) invert(1); 
 }
 
