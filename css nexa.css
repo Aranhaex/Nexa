@@ -217,9 +217,9 @@ hr {
 
 .footer-content {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between 30px;
     align-items: center;
-    padding: 50px;
+    padding: 30px;
 }
 
 .footer p {
