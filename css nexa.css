@@ -73,10 +73,9 @@ hr {
 }
 .news-item p:hover {
     color: #BCD5F3;
-    -webkit-text-stroke: 1px #101d42;
     cursor: pointer;
     transform: scale(1.1);
-    filter:contrast(1.1) 
+    filter:contrast(1.0) 
     
 }
 
