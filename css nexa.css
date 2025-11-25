@@ -74,10 +74,10 @@ hr {
 .news-item p:hover {
     color: #BCD5F3;
     text-shadow:
-    -1px -1px 0 #101d42,
-    1px -1px 0 #101d42, 
-    -1px 1px 0 #101d42, 
-    1px 1px 0 #101d42; 
+    -1px -1px 0 #000,
+    1px -1px 0 #000, 
+    -1px 1px 0 #000, 
+    1px 1px 0 #000; 
     cursor: pointer;
     transform: scale(1.1);
     filter:contrast(1.1) 
