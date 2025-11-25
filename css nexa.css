@@ -73,6 +73,11 @@ hr {
 }
 .news-item p:hover {
     color: #BCD5F3;
+    text-shadow:
+    -1px -1px 0 #101d42,
+    1px -1px 0 #101d42, 
+    -1px 1px 0 #101d42, 
+    1px 1px 0 #101d42; 
     cursor: pointer;
     transform: scale(1.1);
     filter:contrast(1.1) 
@@ -118,7 +123,7 @@ hr {
     display: flex;
     align-items: center;
     gap: 20px;
-    background-color: #051340;
+    background-color: #101d42;
     color: white;
     padding: 20px;
     border-radius: 50px;
