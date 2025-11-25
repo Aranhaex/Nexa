@@ -34,7 +34,7 @@ hr {
     background-size: cover;
     background-position: center;
     color: #fff;
-    padding: 155px 40px;
+    padding: 165px 40px;
     position: relative;
 }
 
@@ -217,13 +217,13 @@ hr {
 
 .footer-content {
     display: flex;
-    justify-content: space-between 100px;
+    justify-content: space-between;
     align-items: center;
     padding: 30px;
 }
 
 .footer p {
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .footer .hashtag {
